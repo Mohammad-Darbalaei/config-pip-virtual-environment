@@ -1,8 +1,5 @@
 import flashtext
-import pylint as pd
-import numpy
-
-
-print("mohammad")
+import numpy as np
+print("mohammad erfan")
 
 
